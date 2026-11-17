@@ -1,6 +1,6 @@
 # Hi, I'm Connor 👋
 
-Applied AI engineer based in London. I work with clients to find the real problem, build production LLM systems to solve it, and measure whether they worked.
+Applied AI engineer based in the UK. I work with clients to find the real problem, build production LLM systems to solve it, and measure whether they worked.
 
 Co-founder and CEO of [AireStream](https://airestream.ai), an AI search consultancy. Before that, four years in UK energy trading and market risk at ENGIE and Drax. First-class Physics (Leeds), Distinction in Level 7 AI and Data Science.
 
